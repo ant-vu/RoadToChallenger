@@ -1,5 +1,4 @@
 # RoadToChallenger
-
 | Rank        | LP      | Current |
 | :---        | :---    | :---    |
 | Iron        | 1-50    | 1       |
