@@ -17,3 +17,6 @@
 **Grandmaster 321-340**
 
 **Challenger 341-365**
+
+| hi | 8 |
+|master|8du|
