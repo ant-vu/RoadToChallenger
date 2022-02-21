@@ -1,6 +1,6 @@
 # RoadToChallenger
 
-*Day 1
+*Day 1*
 
 Iron 1-50
 
