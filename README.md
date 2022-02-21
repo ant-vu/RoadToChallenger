@@ -18,5 +18,7 @@
 
 **Challenger 341-365**
 
-| hi | 8 |
-|master|8du|
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
