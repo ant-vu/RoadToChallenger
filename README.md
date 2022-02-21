@@ -1,6 +1,6 @@
 # RoadToChallenger
 
-| Rank        | LP      | Me      |
+| Rank        | LP      | Current |
 | :---        | :---    | :---    |
 | Iron        | 1-50    | 1       |
 | Bronze      | 51-100  |         |
