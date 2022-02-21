@@ -1,6 +1,6 @@
 # RoadToChallenger
 
-**Day 1**
+## Day 1
 
 - **Iron 1-50**
 
@@ -17,4 +17,5 @@
 - **Master 301-320**
 
 - **Grandmaster 321-340**
+
 - **Challenger 341-365**
