@@ -1,7 +1,7 @@
 # RoadToChallenger
 | Rank        | LP      | Season 1 |
 | :---        | :---    | :---     |
-| Iron        | 1-50    | 1        |
+| Iron        | 1-50    | 2        |
 | Bronze      | 51-100  |          |
 | Silver      | 101-150 |          |
 | Gold        | 151-200 |          |
