@@ -27,4 +27,4 @@
 | Diamond I    | 121-134 |          |
 | Master       | 135-150 |          |
 | Grandmaster  | 151-168 |          |
-| Challenger   | 169-188 |          |
+| Challenger   | 169+    |          |
