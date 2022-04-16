@@ -1,8 +1,8 @@
 | Rank         | LP           | Current |
 | :---         | :---         | :---    |
 | Iron IV      | 1-2 (-1)     |         |
-| Iron III     | 3-4 (-1)     | 4       |
-| Iron II      | 5-6 (-1)     |         |
+| Iron III     | 3-4 (-1)     |         |
+| Iron II      | 5-6 (-1)     | 5       |
 | Iron I       | 7-10 (-1)    |         |
 | Bronze IV    | 11-13 (-2)   |         |
 | Bronze III   | 14-16 (-2)   |         |
