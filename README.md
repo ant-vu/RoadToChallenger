@@ -5,8 +5,8 @@
 | Iron II      | 5-6 (-1)     |         |
 | Iron I       | 7-10 (-1)    |         |
 | Bronze IV    | 11-13 (-2)   |         |
-| Bronze III   | 14-16 (-2)   | 16      |
-| Bronze II    | 17-19 (-2)   |         |
+| Bronze III   | 14-16 (-2)   |         |
+| Bronze II    | 17-19 (-2)   | 17      |
 | Bronze I     | 20-25 (-2)   |         |
 | Silver IV    | 26-29 (-3)   |         |
 | Silver III   | 30-33 (-3)   |         |
