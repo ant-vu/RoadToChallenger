@@ -1,29 +1,29 @@
-| Rank         | LP           | Current |
-| :---         | :---         | :---    |
-| Iron IV      | 1-2 (-1)     |         |
-| Iron III     | 3-4 (-1)     |         |
-| Iron II      | 5-6 (-1)     |         |
-| Iron I       | 7-10 (-1)    |         |
-| Bronze IV    | 11-13 (-2)   |         |
-| Bronze III   | 14-16 (-2)   |         |
-| Bronze II    | 17-19 (-2)   | 18      |
-| Bronze I     | 20-25 (-2)   |         |
-| Silver IV    | 26-29 (-3)   |         |
-| Silver III   | 30-33 (-3)   |         |
-| Silver II    | 34-37 (-3)   |         |
-| Silver I     | 38-45 (-3)   |         |
-| Gold IV      | 45-49 (-4)   |         |
-| Gold III     | 50-54 (-4)   |         |
-| Gold II      | 55-59 (-4)   |         |
-| Gold I       | 60-69 (-4)   |         |
-| Platinum IV  | 70-75 (-5)   |         |
-| Platinum III | 76-81 (-5)   |         |
-| Platinum II  | 82-87 (-5)   |         |
-| Platinum I   | 88-99 (-5)   |         |
-| Diamond IV   | 100-106 (-6) |         |
-| Diamond III  | 107-113 (-6) |         |
-| Diamond II   | 114-120 (-6) |         |
-| Diamond I    | 121-134 (-6) |         |
-| Master       | 135-150 (-7) |         |
-| Grandmaster  | 151-168 (-8) |         |
-| Challenger   | 169+ (-9)    |         |
+| Rank         | LP      | Current |
+| :---         | :---    | :---    |
+| Iron IV      | 1-2     |         |
+| Iron III     | 3-4     |         |
+| Iron II      | 5-6     |         |
+| Iron I       | 7-8     |         |
+| Bronze IV    | 9-11    |         |
+| Bronze III   | 12-14   |         |
+| Bronze II    | 15-17   |         |
+| Bronze I     | 18-20   | 19      |
+| Silver IV    | 21-24   |         |
+| Silver III   | 25-28   |         |
+| Silver II    | 29-32   |         |
+| Silver I     | 33-36   |         |
+| Gold IV      | 37-41   |         |
+| Gold III     | 42-46   |         |
+| Gold II      | 47-51   |         |
+| Gold I       | 52-56   |         |
+| Platinum IV  | 57-62   |         |
+| Platinum III | 63-68   |         |
+| Platinum II  | 69-74   |         |
+| Platinum I   | 75-80   |         |
+| Diamond IV   | 81-87   |         |
+| Diamond III  | 88-94   |         |
+| Diamond II   | 95-101  |         |
+| Diamond I    | 102-108 |         |
+| Master       | 109-116 |         |
+| Grandmaster  | 117-125 |         |
+| Challenger   | 126+    |         |
