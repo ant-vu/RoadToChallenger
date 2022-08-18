@@ -8,7 +8,7 @@
 | Bronze III   | 12-14   |         |
 | Bronze II    | 15-17   |         |
 | Bronze I     | 18-20   |         |
-| Silver IV    | 21-24   | 128     |
+| Silver IV    | 21-24   | 129     |
 | Silver III   | 25-28   |         |
 | Silver II    | 29-32   |         |
 | Silver I     | 33-36   |         |
